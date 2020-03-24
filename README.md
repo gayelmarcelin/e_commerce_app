@@ -1,6 +1,6 @@
 # ecommerceapp
 
-A new Flutter application which describe an exmaple of e-commerce app.
+A new Flutter application which describe an example of e-commerce app.
 
 ## Getting Started
 
